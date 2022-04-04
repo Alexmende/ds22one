@@ -1,3 +1,4 @@
+//David Alejandro Méndez Castañeda y Vargas Vizuet Victor Jetaime 2°A
 function pop(n,vec){ //n= vector origen, vec= nuevo vector
     let aux; 
     aux= n[n.length-1];
